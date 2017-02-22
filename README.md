@@ -22,4 +22,4 @@
 
 ## 文档
 
-[在线阅读](install/SUMMARY.md)
+[在线阅读](SUMMARY.md)
